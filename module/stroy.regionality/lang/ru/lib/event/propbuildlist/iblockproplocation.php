@@ -1,0 +1,3 @@
+<?
+$MESS['REGIONALITY_DIRECTORY_DESCRIPTION'] = 'Местоположение';
+?>

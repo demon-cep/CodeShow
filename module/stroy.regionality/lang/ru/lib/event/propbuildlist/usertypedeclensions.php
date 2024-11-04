@@ -1,0 +1,3 @@
+<?
+$MESS['DECLENSIONS_DIRECTORY_DESCRIPTION'] = 'Склонение слов';
+?>
